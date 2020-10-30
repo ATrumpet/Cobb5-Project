@@ -4,25 +4,26 @@
 }
 
 body {
-    background-color:gray;
+    background-color:#71b1fb;
 }
-Nav {
-    width: 100%;
+Nav { 
+    text-align: center;
+     width: 100%;
     height: 100px;
     background-color:
-    red;
+    #ffbe0b; 
 
 }
 
-ul li {
+ul li { 
 list-style: none;
 display: inline-block;
 float: left;
 line-height: 100px;
 }
 
-ul li a {
-    display: block;
+ul li a {   
+  display: block;
 text-decoration: none;
 font-size: 14px;
 font-family: Arial;
@@ -33,4 +34,11 @@ padding: 0 20px;
 ul li a hover {
  Color:white;
 padding: 0 20px;
+}
+
+.img { border:1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width:150px
+
 }
