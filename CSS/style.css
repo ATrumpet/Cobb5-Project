@@ -174,7 +174,11 @@ fieldset {
   }
 
  hpContent{
+<<<<<<< HEAD
   
+=======
+    
+>>>>>>> 6448d599e41a200aa3057edc3040ab87033a83b4
     text-align: center;
     box-sizing: inherit;
     margin: inherit;
@@ -197,3 +201,13 @@ footer{
 logoImg{
   height:20px;
 }
+<<<<<<< HEAD
+=======
+
+.col-sm1 p{
+float: left;
+}
+
+    
+
+>>>>>>> 6448d599e41a200aa3057edc3040ab87033a83b4
