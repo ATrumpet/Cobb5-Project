@@ -22,11 +22,14 @@ font-size: 30px;
 
 
 
-.container {
-	max-width:400px;
+ .container {
 	width:100%;
 	margin:0 auto;
     position:relative;
+} 
+
+.smallContainer{
+  max-width:400px;
 }
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact textarea, #contact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
@@ -194,13 +197,45 @@ footer{
   background-color: greenyellow ;
 }
 
-logoImg{
-  height:20px;
+.logoImg{
+  height:150px;
 }
 
+.smallContainer{
+max-width: 400px;
+
+}
 .col-sm1 p{
 float: left;
 }
 
-    
+.foodService{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: greenyellow;
+  color: blue;
+  text-align: center;
 
+}
+
+.prepImg{
+  margin-top: 20px;
+  margin-bottom: 20px ;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 75%;
+  display:block;
+}
+
+.interiorImg{
+  margin-top: 20px;
+  margin-bottom: 20px ;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 75%;
+  display:block;
+}
+
+s
